@@ -4,7 +4,7 @@ We build software that is a pleasure to use: clear, calm screens, fast on the co
 
 ## What we make
 
-- **AXENT POS, soon Wira POS.** A point of sale for shops, supermarkets, bars and restaurants: a quick till, every way to pay including M-Pesa, stock by expiry date, bills, VAT, reports and printing, with the whole shop working together over its own network, no internet needed to sell. It runs on Windows, macOS and Linux.
+- **Wira POS.** A point of sale for shops, supermarkets, bars and restaurants: a quick till, every way to pay including M-Pesa, stock by expiry date, bills, VAT, reports and printing, with the whole shop working together over its own network, no internet needed to sell. It runs on Windows, macOS and Linux.
 - **Apps made to order.** Mobile, desktop and web apps for businesses and people with an idea.
 - **Prototypes.** A clickable design of your product, to see and try it before it is built.
 
