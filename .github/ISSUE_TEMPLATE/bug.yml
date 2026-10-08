@@ -1,0 +1,37 @@
+name: Something is wrong
+description: A bug, or something that does not work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen
+      description: The steps, one per line, from opening the app.
+      placeholder: |
+        1. Sign in as a cashier
+        2. Scan a product
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: As the app's About page shows it.
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Windows, macOS, Linux or a tablet, and its screen size if it matters.
+  - type: textarea
+    id: pictures
+    attributes:
+      label: Pictures
+      description: Screenshots help; please hide any customer's details first.
